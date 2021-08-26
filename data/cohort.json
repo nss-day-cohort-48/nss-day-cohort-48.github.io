@@ -1,7 +1,6 @@
 {
-    "cohort": [
-        {
-            "id": 3,
+    "cohort": [{
+            "id": 1,
             "firstName": "Tyler",
             "lastName": "Bowman",
             "reelThemIn": "<p>git commit -m \"I eat code for breakfast!\"</p>",
@@ -10,11 +9,11 @@
             "linkedIn": "https://www.linkedin.com/in/tyler-bowman-b278ab150/",
             "portfolio": "http://www.bowty.tech",
             "email": "bowmant388@gmail.com",
-            "proImg": "TylerBowman.jpg",
-            "funImg": "TylerBowman_Fun.jpg"
+            "proImg": "Noah",
+            "funImg": ""
         },
         {
-            "id": 7,
+            "id": 2,
             "firstName": "Paul",
             "lastName": "Ellis",
             "reelThemIn": "Somewhere, someone will use what we design. That means we can make that person’s day that much better. That’s motivation!",
@@ -23,11 +22,11 @@
             "linkedIn": "https://www.linkedin.com/in/paul-ellis-110a44149/",
             "portfolio": "http://www.developerellis.com",
             "email": "tynesellis@icloud.com",
-            "proImg": "PaulEllis.jpg",
-            "funImg": "PaulEllis_Fun.jpg"
+            "proImg": "DevinGarcia.jpg",
+            "funImg": ""
         },
         {
-            "id": 17,
+            "id": 3,
             "firstName": "Jesse",
             "lastName": "Page",
             "reelThemIn": "Software Developer | Sound Designer | Sandwich Devotee",
@@ -36,11 +35,11 @@
             "linkedIn": "https://www.linkedin.com/in/jesse-page/",
             "portfolio": "http://www.thepagepage.net",
             "email": "jesse.page@me.com",
-            "proImg": "JessePage.jpg",
-            "funImg": "JessePage_Fun.jpg"
+            "proImg": "Dakota",
+            "funImg": ""
         },
         {
-            "id": 9,
+            "id": 4,
             "firstName": "Lissa",
             "lastName": "Goforth",
             "reelThemIn": "sudo hire me",
@@ -49,11 +48,11 @@
             "linkedIn": "https://www.linkedin.com/in/lissagoforth-softwaredeveloper/",
             "portfolio": "https://lissagoforth.github.io/",
             "email": "lissagoforthsoftwaredev@gmail.com",
-            "proImg": "LissaGoforth.jpg",
-            "funImg": "LissaGoforth_Fun.jpg"
+            "proImg": "AlexLanbrow.jpg",
+            "funImg": ""
         },
         {
-            "id": 11,
+            "id": 5,
             "firstName": "Greg",
             "lastName": "Lawrence",
             "reelThemIn": "I'm passionate about blending creativity with technology... and riding my bicycle.",
@@ -62,8 +61,138 @@
             "linkedIn": "https://www.linkedin.com/in/gregmlawrence",
             "portfolio": "https://www.greglawrence.me",
             "email": "gregaudio@gmail.com",
-            "proImg": "GregLawrence.jpg",
-            "funImg": "GregLawrence_Fun.jpg"
+            "proImg": "AndrewWebb.JPG",
+            "funImg": ""
+        },
+        {
+            "id": 6,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "AshtonMonzi.JPG",
+            "funImg": ""
+        },
+        {
+            "id": 7,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "ThomasClouse.jpg",
+            "funImg": ""
+        },
+        {
+            "id": 7,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "GabeGonzales.jpg",
+            "funImg": ""
+        },
+        {
+            "id": 9,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "JonathanWatson.jpg",
+            "funImg": ""
+        },
+        {
+            "id": 10,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "ValCurrie.jpeg",
+            "funImg": ""
+        },
+        {
+            "id": 11,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "Legacy.jpg",
+            "funImg": ""
+        },
+        {
+            "id": 12,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "HannahWeeks.jpeg",
+            "funImg": ""
+        },
+        {
+            "id": 13,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "CalebWagner.jpeg",
+            "funImg": ""
+        },
+        {
+            "id": 14,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "ShawnBarron.jpg",
+            "funImg": ""
+        },
+        {
+            "id": 15,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "SeanMurphy.png",
+            "funImg": ""
         },
         {
             "id": 16,
@@ -75,8 +204,138 @@
             "linkedIn": "https://www.linkedin.com/in/krnorris65",
             "portfolio": "http://www.kristen-norris.com",
             "email": "krnorris65@gmail.com",
-            "proImg": "KristenNorris.jpg",
-            "funImg": "KristenNorris_Fun.jpg"
+            "proImg": "nickarmani03.jpg",
+            "funImg": ""
+        },
+        {
+            "id": 17,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "Key.jpg",
+            "funImg": ""
+        },
+        {
+            "id": 18,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "BryanG.png",
+            "funImg": ""
+        },
+        {
+            "id": 19,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "JaclynFrench.JPG",
+            "funImg": ""
+        },
+        {
+            "id": 20,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "MikeyWooldridge.jpeg",
+            "funImg": ""
+        },
+        {
+            "id": 21,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
+            "id": 22,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
+            "id": 23,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
+            "id": 24,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
+            "id": 25,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
+            "id": 26,
+            "firstName": "Kristen",
+            "lastName": "Norris",
+            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
+            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
+            "github": "https://github.com/krnorris65",
+            "linkedIn": "https://www.linkedin.com/in/krnorris65",
+            "portfolio": "http://www.kristen-norris.com",
+            "email": "krnorris65@gmail.com",
+            "proImg": "",
+            "funImg": ""
         }
     ]
 }
