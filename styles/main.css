@@ -295,12 +295,6 @@ button {
 }
 
 .navbar.navbar-light.bg-light.footer {
-<<<<<<< HEAD
-    margin-top: 10px;
-    font-size: 1em;
-    background-color: #23819300 !important;
-    color: white;
-=======
   margin-top: 10px;
   font-size: 1em;
   background-color: #23819300 !important;
@@ -315,5 +309,4 @@ button {
   /* padding-left: 0; */
   margin-bottom: 0;
   list-style: none;
->>>>>>> d7365d4e670dec6427f6128d741b7831d345a025
 }
