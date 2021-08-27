@@ -1,288 +1,297 @@
 p {
-	font-family: "Barlow", sans-serif;
+    font-family: "Barlow", sans-serif;
 }
 
 html,
 body {
-	max-width: 100%;
-	overflow-x: hidden;
-	background: url("../images/background.jpg") fixed repeat;
-	background-size: cover;
-	background-color: black;
+    max-width: 100%;
+    overflow-x: hidden;
+    background: url("../images/background.jpg") fixed repeat;
+    background-size: cover;
+    background-color: black;
 }
 
 blockquote {
-	margin-left: 40px;
-	margin-right: 40px;
-	background-color: #ddd;
-	padding: 2em;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #ddd;
+    padding: 2em;
 }
 
 .navbar {
-	background-color: rgb(55, 55, 56);
-	padding: 20px;
+    background-color: rgb(55, 55, 56);
+    padding: 20px;
 }
+
 .navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top {
-	background: rgba(255, 255, 255, 0) !important;
+    background: rgba(255, 255, 255, 0) !important;
 }
+
 .navbar-brand {
-	display: flex;
+    display: flex;
 }
+
 .nav-spacing {
-	margin-right: 2em;
+    margin-right: 2em;
 }
 
 #cohort22 {
-	display: inline-block;
-	color: #ffffff;
+    display: inline-block;
+    color: #ffffff;
 }
 
 #jumbheader {
-  /* box-shadow: 2px 2px 2px rgb(167 166 166); */
-  background-color: #78787800 !important;
-  color: white;
-  box-shadow: 0px 20px 20px 1px #00000087, inset 0px 0px 0px 0px #c3c3c3;
-  
+    /* box-shadow: 2px 2px 2px rgb(167 166 166); */
+    background-color: #78787800 !important;
+    color: white;
+    box-shadow: 0px 20px 20px 1px #00000087, inset 0px 0px 0px 0px #c3c3c3;
 }
+
 .header-text {
-	margin: 0 auto;
-	padding-top: 5px;
-	font-weight: bold;
-	height: 50px;
-	color: white;
+    margin: 0 auto;
+    padding-top: 5px;
+    font-weight: bold;
+    height: 50px;
+    color: white;
 }
 
 .title-font {
-	text-align: center;
-	vertical-align: middle;
+    text-align: center;
+    vertical-align: middle;
 }
 
 .logo {
-	height: 50px;
+    height: 50px;
 }
 
 .jumbotron.jumbotron-fluid {
-	background: none;
+    background: none;
 }
+
 .jumbotron.jumbotron-fluid img {
-	background: none;
-	width: 100%;
-	margin-top: -80px;
+    background: none;
+    width: 100%;
+    margin-top: -80px;
 }
 
 main {
-	margin-bottom: 20px;
-	margin-top: -30px;
-	width: 100%;
-	overflow-y: hidden;
-	overflow-x: hidden;
+    margin-bottom: 20px;
+    margin-top: -30px;
+    width: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 .row {
-	justify-content: center;
+    justify-content: center;
 }
 
 .navbar-collapse {
-	justify-content: flex-end;
-	font-weight: bold;
-	text-transform: uppercase;
+    justify-content: flex-end;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 .col-md-3.cohortMems {
-	border: 1px solid lightgray;
-	border-radius: 5px;
-	box-shadow: 2px 2px 2px lightgray;
-	margin: 10px;
-	margin-bottom: 25px;
-	background: white;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px lightgray;
+    margin: 10px;
+    margin-bottom: 25px;
+    background: white;
 }
 
 .col-sm-2.technologies {
-	border: none;
-	border-radius: none;
-	box-shadow: none;
+    border: none;
+    border-radius: none;
+    box-shadow: none;
 }
 
 .technos,
 .words {
-	margin-top: -55px;
-	background: white;
-	padding: 20px;
-	border-radius: 5px;
+    margin-top: -55px;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
 }
 
-.techs{
+.techs {
     height: 70px;
     object-fit: cover;
     margin: 20px 0px;
-  }
+}
 
 .words {
-	padding: 50px;
+    padding: 50px;
 }
 
 .no-gutters {
-	margin-right: 0;
-	margin-left: 0;
+    margin-right: 0;
+    margin-left: 0;
 }
 
-.card-img-top{
+.card-img-top {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     height: 17em;
     object-fit: cover;
-  }
+}
 
 .col,
 [class*="col-"] {
     padding-right: 0;
     padding-left: 0;
-  }
+}
 
-.modal-body{
+.modal-body {
     display: block;
-  }
+}
 
-  .studentContact{
-      text-align: center;
-      display: flex;
-      justify-content: space-evenly;
-      -webkit-justify-content: space-evenly;
-      margin-bottom: .75rem;
-  }
+.studentContact {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    -webkit-justify-content: space-evenly;
+    margin-bottom: .75rem;
+}
 
-  .contactIcons{
-      color: #238193;
-  }
-  .contactIcons:hover{
-      transform: scale(1.2);
-  }
+.contactIcons {
+    color: #238193;
+}
 
-  .modal-header{
+.contactIcons:hover {
+    transform: scale(1.2);
+}
+
+.modal-header {
     background-color: lightgray!important;
     color: #238193;
-  }
+}
 
-  .modal-body img{
+.modal-body img {
     width: 17em;
     height: 17em;
     box-shadow: 3px 3px 5px #cacaca;
     border-radius: 10px;
     object-fit: cover;
-  }
+}
 
-  /* .funImage {
-    border-radius: 10px;
-    height: 17em;
-    object-fit: cover;
-} */
+.footer-text {
+    text-align: center;
+}
 
-  .backButton{
-      margin-bottom: 1.5rem;
-  }
+.backButton {
+    margin-bottom: 1.5rem;
+}
 
-.navbar.navbar-light.bg-light.footer{
-    margin-top:10px;
+.navbar.navbar-light.bg-light.footer {
+    margin-top: 10px;
     font-size: 1em;
     background-color: #238193!important;
     color: white;
 }
 
 #demo-date {
-	text-align: center;
+    text-align: center;
 }
 
 #demo-date a {
-	color: #fddf31 !important;
+    color: #ff0e0e !important;
 }
 
 button {
-	cursor: pointer;
+    cursor: pointer;
 }
+
 .btn-outline-primary {
-	color: #238193 !important;
-	border-color: #238193 !important;
+    color: #238193 !important;
+    border-color: #238193 !important;
 }
 
 .btn-outline-primary:hover {
-	color: white !important;
-	background-color: #238193 !important;
+    color: white !important;
+    background-color: #238193 !important;
 }
 
+
 /* adjusts size of contact icons depending on size of card */
+
 @media (min-width: 992px) and (max-width: 1200px) {
-	.fa-3x {
-		font-size: 2.5em !important;
-	}
+    .fa-3x {
+        font-size: 2.5em !important;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-	.fa-3x {
-		font-size: 2em !important;
-	}
+    .fa-3x {
+        font-size: 2em !important;
+    }
 }
 
 @media (max-width: 900px) {
-	/* body {
+    /* body {
         background: url("../assets/images/bg.jpg") repeat;
     } */
-    .jumbotron.jumbotron-fluid img{
+    .jumbotron.jumbotron-fluid img {
         background: white;
-        margin-top:30px;
-       }
-       .jumbotron.jumbotron-fluid.sm-width{
+        margin-top: 30px;
+    }
+    .jumbotron.jumbotron-fluid.sm-width {
         width: 100%;
     }
-       .header-text{
+    .header-text {
         margin: 0 auto;
         height: 30px;
-       }
-       .header-text h2{
+    }
+    .header-text h2 {
         font-size: 1.5em;
         margin-top: -10px;
-       }
-       .modal-body{
+    }
+    .modal-body {
         display: block;
-      }
-      .modal-content {
+    }
+    .modal-content {
         width: 100%;
     }
-       /* .modal-body img{
+    /* .modal-body img{
         width: 100%;
       } */
-      main {
+    main {
         margin-bottom: 100px;
         margin-top: -50px;
         width: 100%
-      }
-      .navbar-brand img{
-        padding-right: none;
-      }
     }
+    .navbar-brand img {
+        padding-right: none;
+    }
+}
 
 #cohort48 {
-  color: white;
+    color: white;
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color: rgb(255 255 255);
+    color: rgb(255 255 255);
 }
 
-.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
-  color: rgba(255, 255, 255, 0.9);
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(255, 255, 255, 0.9);
 }
 
 .fixed-top {
-  position: sticky;
-  top: 0;
-  right: 0;
-  left: 0;
-  z-index: 1030;
+    position: sticky;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
 }
 
 .container {
-  max-width: 960px;
-  margin-top: 5rem;
+    max-width: 960px;
+    margin-top: 5rem;
 }
 
 .navbar.navbar-light.bg-light.footer {

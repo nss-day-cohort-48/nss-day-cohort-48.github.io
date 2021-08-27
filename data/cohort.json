@@ -299,17 +299,17 @@
             "funImg": "codyfun.JPG"
         },
         {
-            "id": 23,
+            "id": 24,
             "firstName": "Madeline",
             "lastName": "Crowley",
-            "reelThemIn": "",
-            "bio": "<p></p>",
-            "github": "",
-            "linkedIn": "",
+            "reelThemIn": "I am a strange loop",
+            "bio": "<p>A long-time interest in technology and design led me to a casual exploration of coding.  After taking a jumpstart class at Nashville Software School in 2019,  I realized that I wanted to make software development a more focused and professional pursuit, and was eventually able to enroll in a full-time bootcamp there.  I enjoy thinking creatively and analytically to solve problems and develop new ideas into real-word applications.</p>",
+            "github": "https://github.com/mecrowley",
+            "linkedIn": "https://www.linkedin.com/in/madeline-crowley/",
             "portfolio": "",
-            "email": "",
-            "proImg": "",
-            "funImg": ""
+            "email": "madelinecrowley@gmail.com",
+            "proImg": "madelinecrowley.PNG",
+            "funImg": "madelinefun.PNG"
         }
     ]
 }
