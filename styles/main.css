@@ -6,7 +6,7 @@ html,
 body {
 	max-width: 100%;
 	overflow-x: hidden;
-	background: url("../images/leather.jpg") fixed no-repeat;
+	background: url("../images/background.jpg") fixed repeat;
 	background-size: 100%;
 	background-color: black;
 }
@@ -23,7 +23,7 @@ blockquote {
 	padding: 20px;
 }
 .navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top {
-	background: white !important;
+	background: rgba(255, 255, 255, 0) !important;
 }
 .navbar-brand {
 	display: flex;
@@ -34,14 +34,14 @@ blockquote {
 
 #cohort22 {
 	display: inline-block;
-	color: #238193;
+	color: #ffffff;
 }
 
 #jumbheader {
   /* box-shadow: 2px 2px 2px rgb(167 166 166); */
-  background-color: #787878 !important;
+  background-color: #78787800 !important;
   color: white;
-  box-shadow: inset 0px 0px 20px 6px #00000087, inset 0px 0px 0px 0px #c3c3c3;
+  box-shadow: 0px 20px 20px 1px #00000087, inset 0px 0px 0px 0px #c3c3c3;
 }
 .header-text {
 	margin: 0 auto;
@@ -251,4 +251,25 @@ button {
 
 #cohort48 {
   color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(255 255 255);
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.fixed-top {
+  position: sticky;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+.container {
+  max-width: 960px;
+  margin-top: 5rem;
 }
