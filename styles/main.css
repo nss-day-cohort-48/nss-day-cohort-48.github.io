@@ -1,9 +1,14 @@
 p {
+<<<<<<< HEAD
     font-family: 'Barlow', sans-serif;
+=======
+	font-family: "Barlow", sans-serif;
+>>>>>>> main
 }
 
 html,
 body {
+<<<<<<< HEAD
     max-width: 100%;
     overflow-x: hidden;
     background: url("../images/background.jpg") fixed no-repeat;
@@ -29,9 +34,35 @@ blockquote {
 
 .navbar-brand {
     display: flex;
+=======
+	max-width: 100%;
+	overflow-x: hidden;
+	background: url("../images/background.jpg") fixed repeat;
+	background-size: cover;
+	background-color: black;
+}
+
+blockquote {
+	margin-left: 40px;
+	margin-right: 40px;
+	background-color: #ddd;
+	padding: 2em;
+}
+
+.navbar {
+	background-color: rgb(55, 55, 56);
+	padding: 20px;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top {
+	background: rgba(255, 255, 255, 0) !important;
+}
+.navbar-brand {
+	display: flex;
+>>>>>>> main
 }
 
 .nav-spacing {
+<<<<<<< HEAD
     margin-right: 2em;
 }
 
@@ -52,14 +83,38 @@ blockquote {
     font-weight: bold;
     height: 50px;
     color: white;
+=======
+	margin-right: 2em;
+}
+
+#cohort22 {
+	display: inline-block;
+	color: #ffffff;
+}
+
+#jumbheader {
+  /* box-shadow: 2px 2px 2px rgb(167 166 166); */
+  background-color: #78787800 !important;
+  color: white;
+  box-shadow: 0px 20px 20px 1px #00000087, inset 0px 0px 0px 0px #c3c3c3;
+  
+}
+.header-text {
+	margin: 0 auto;
+	padding-top: 5px;
+	font-weight: bold;
+	height: 50px;
+	color: white;
+>>>>>>> main
 }
 
 .title-font {
-    text-align: center;
-    vertical-align: middle;
+	text-align: center;
+	vertical-align: middle;
 }
 
 .logo {
+<<<<<<< HEAD
     height: 50px;
 }
 
@@ -104,10 +159,56 @@ main {
     border: none;
     border-radius: none;
     box-shadow: none;
+=======
+	height: 50px;
+}
+
+.jumbotron.jumbotron-fluid {
+	background: none;
+}
+.jumbotron.jumbotron-fluid img {
+	background: none;
+	width: 100%;
+	margin-top: -80px;
+}
+
+main {
+	margin-bottom: 20px;
+	margin-top: -30px;
+	width: 100%;
+	overflow-y: hidden;
+	overflow-x: hidden;
+}
+
+.row {
+	justify-content: center;
+}
+
+.navbar-collapse {
+	justify-content: flex-end;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.col-md-3.cohortMems {
+	border: 1px solid lightgray;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px lightgray;
+	margin: 10px;
+	margin-bottom: 25px;
+	background: white;
+}
+
+.col-sm-2.technologies {
+	border: none;
+	border-radius: none;
+	box-shadow: none;
+>>>>>>> main
 }
 
 .technos,
 .words {
+<<<<<<< HEAD
     margin-top: -55px;
     background: white;
     padding: 20px;
@@ -116,18 +217,36 @@ main {
 
 .techs {
     width: 70px;
+=======
+	margin-top: -55px;
+	background: white;
+	padding: 20px;
+	border-radius: 5px;
+}
+
+.techs{
+>>>>>>> main
     height: 70px;
     object-fit: cover;
     margin: 20px 0px;
 }
 
 .words {
+<<<<<<< HEAD
     padding: 50px;
 }
 
 .no-gutters {
     margin-right: 0;
     margin-left: 0;
+=======
+	padding: 50px;
+}
+
+.no-gutters {
+	margin-right: 0;
+	margin-left: 0;
+>>>>>>> main
 }
 
 .card-img-top {
@@ -195,14 +314,15 @@ main {
 }
 
 #demo-date {
-    text-align: center;
+	text-align: center;
 }
 
 #demo-date a {
-    color: #238193!important;
+	color: #ff0e0e !important;
 }
 
 button {
+<<<<<<< HEAD
     cursor: pointer;
 }
 
@@ -214,10 +334,23 @@ button {
 .btn-outline-primary:hover {
     color: white!important;
     background-color: #238193!important;
+=======
+	cursor: pointer;
+}
+.btn-outline-primary {
+	color: #238193 !important;
+	border-color: #238193 !important;
+}
+
+.btn-outline-primary:hover {
+	color: white !important;
+	background-color: #238193 !important;
+>>>>>>> main
 }
 
 
 /* adjusts size of contact icons depending on size of card */
+<<<<<<< HEAD
 
 @media (min-width: 992px) and (max-width: 1200px) {
     .fa-3x {
@@ -233,6 +366,22 @@ button {
 
 @media (max-width: 900px) {
     /* body {
+=======
+@media (min-width: 992px) and (max-width: 1200px) {
+	.fa-3x {
+		font-size: 2.5em !important;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.fa-3x {
+		font-size: 2em !important;
+	}
+}
+
+@media (max-width: 900px) {
+	/* body {
+>>>>>>> main
         background: url("../assets/images/bg.jpg") repeat;
     } */
     .jumbotron.jumbotron-fluid img {
@@ -266,5 +415,41 @@ button {
     }
     .navbar-brand img {
         padding-right: none;
+<<<<<<< HEAD
     }
+=======
+      }
+    }
+
+#cohort48 {
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(255 255 255);
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.fixed-top {
+  position: sticky;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+.container {
+  max-width: 960px;
+  margin-top: 5rem;
+}
+
+.navbar.navbar-light.bg-light.footer {
+  margin-top: 10px;
+  font-size: 1em;
+  background-color: #23819300 !important;
+  color: white;
+>>>>>>> main
 }
