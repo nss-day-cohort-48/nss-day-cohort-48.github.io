@@ -112,6 +112,8 @@ main {
 
 .techs{
     width: 70px;
+    height: 70px;
+    object-fit: cover;
     margin: 20px 0px;
   }
 
@@ -127,6 +129,8 @@ main {
 .card-img-top{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    height: 17em;
+    object-fit: cover;
   }
 
 .col,
