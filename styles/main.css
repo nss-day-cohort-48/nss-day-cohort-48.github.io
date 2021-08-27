@@ -164,11 +164,18 @@ main {
   }
 
   .modal-body img{
-    width: 50%;
-    height: 50%;
+    width: 17em;
+    height: 17em;
     box-shadow: 3px 3px 5px #cacaca;
     border-radius: 10px;
+    object-fit: cover;
   }
+
+  /* .funImage {
+    border-radius: 10px;
+    height: 17em;
+    object-fit: cover;
+} */
 
   .backButton{
       margin-bottom: 1.5rem;
@@ -242,9 +249,9 @@ button{
       .modal-content {
         width: 100%;
     }
-       .modal-body img{
+       /* .modal-body img{
         width: 100%;
-      }
+      } */
       main {
         margin-bottom: 100px;
         margin-top: -50px;

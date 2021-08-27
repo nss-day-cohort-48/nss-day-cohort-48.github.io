@@ -49,7 +49,7 @@
             "portfolio": "https://www.alexanderlambrow.com/",
             "email": "alexander.lambrow@gmail.com",
             "proImg": "AlexLambrow.jpg",
-            "funImg": ""
+            "funImg": "AlexLambrow.jpg"
         },
         {
             "id": 5,
@@ -62,7 +62,7 @@
             "portfolio": "https://www.andrew-webb07.com",
             "email": "andrew-webb07@gmail.com",
             "proImg": "AndrewWebb.JPG",
-            "funImg": "andrewfun.jpeg"
+            "funImg": "andrew_fun_image.jpg"
         },
         {
             "id": 6,
@@ -88,7 +88,7 @@
             "portfolio": "#",
             "email": "",
             "proImg": "ThomasClouse.jpg",
-            "funImg": ""
+            "funImg": "ThomasClouse.jpg"
         },
         {
             "id": 7,
@@ -114,7 +114,7 @@
             "portfolio": "#",
             "email": "thejmdw@gmail.com",
             "proImg": "JonathanWatson.jpg",
-            "funImg": ""
+            "funImg": "JonathanWatson.jpg"
         },
         {
             "id": 10,
@@ -153,7 +153,7 @@
             "portfolio": "#",
             "email": "hmweeks93@gmail.com",
             "proImg": "HannahWeeks.jpeg",
-            "funImg": ""
+            "funImg": "HannahWeeks.jpeg"
         },
         {
             "id": 13,
