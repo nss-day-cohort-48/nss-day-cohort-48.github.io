@@ -6,7 +6,7 @@ html,
 body {
 	max-width: 100%;
 	overflow-x: hidden;
-	background: url("../images/background.jpg") fixed no-repeat;
+	background: url("../images/leather.jpg") fixed no-repeat;
 	background-size: 100%;
 	background-color: black;
 }
@@ -38,9 +38,10 @@ blockquote {
 }
 
 #jumbheader {
-	box-shadow: 2px 2px 2px rgb(167, 166, 166);
-	background-color: #238193 !important;
-	color: lightgray;
+  /* box-shadow: 2px 2px 2px rgb(167 166 166); */
+  background-color: #787878 !important;
+  color: white;
+  box-shadow: inset 0px 0px 20px 6px #00000087, inset 0px 0px 0px 0px #c3c3c3;
 }
 .header-text {
 	margin: 0 auto;
@@ -246,4 +247,8 @@ button {
 	.navbar-brand img {
 		padding-right: none;
 	}
+}
+
+#cohort48 {
+  color: white;
 }
