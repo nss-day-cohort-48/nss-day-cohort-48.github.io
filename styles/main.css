@@ -111,10 +111,12 @@ main {
 	border-radius: 20px;
 }
 
-.techs {
-	width: 70px;
-	margin: 20px 0px;
-}
+.techs{
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    margin: 20px 0px;
+  }
 
 .words {
 	padding: 50px;
@@ -125,57 +127,66 @@ main {
 	margin-left: 0;
 }
 
-.card-img-top {
-	border-top-left-radius: 10px;
-	border-top-right-radius: 10px;
-}
+.card-img-top{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 17em;
+    object-fit: cover;
+  }
 
 .col,
 [class*="col-"] {
-	padding-right: 0;
-	padding-left: 0;
-}
+    padding-right: 0;
+    padding-left: 0;
+  }
 
-.modal-body {
-	display: block;
-}
+.modal-body{
+    display: block;
+  }
 
-.studentContact {
-	text-align: center;
-	display: flex;
-	justify-content: space-evenly;
-	-webkit-justify-content: space-evenly;
-	margin-bottom: 0.75rem;
-}
+  .studentContact{
+      text-align: center;
+      display: flex;
+      justify-content: space-evenly;
+      -webkit-justify-content: space-evenly;
+      margin-bottom: .75rem;
+  }
 
-.contactIcons {
-	color: #238193;
-}
-.contactIcons:hover {
-	transform: scale(1.2);
-}
+  .contactIcons{
+      color: #238193;
+  }
+  .contactIcons:hover{
+      transform: scale(1.2);
+  }
 
-.modal-header {
-	background-color: lightgray !important;
-	color: #238193;
-}
+  .modal-header{
+    background-color: lightgray!important;
+    color: #238193;
+  }
 
-.modal-body img {
-	width: 50%;
-	height: 50%;
-	box-shadow: 3px 3px 5px #cacaca;
-	border-radius: 10px;
-}
+  .modal-body img{
+    width: 17em;
+    height: 17em;
+    box-shadow: 3px 3px 5px #cacaca;
+    border-radius: 10px;
+    object-fit: cover;
+  }
 
-.backButton {
-	margin-bottom: 1.5rem;
-}
+  /* .funImage {
+    border-radius: 10px;
+    height: 17em;
+    object-fit: cover;
+} */
 
-.navbar.navbar-light.bg-light.footer {
-	margin-top: 10px;
-	font-size: 1em;
-	background-color: #238193 !important;
-	color: white;
+  .backButton{
+      margin-bottom: 1.5rem;
+  }
+
+.navbar.navbar-light.bg-light.footer{
+    margin-top:10px;
+    font-size: 1em;
+    background-color: #238193!important;
+    color: white;
 }
 
 #demo-date {
@@ -216,39 +227,38 @@ button {
 	/* body {
         background: url("../assets/images/bg.jpg") repeat;
     } */
-	.jumbotron.jumbotron-fluid img {
-		background: white;
-		margin-top: 30px;
-	}
-	.jumbotron.jumbotron-fluid.sm-width {
-		width: 100%;
-	}
-	.header-text {
-		margin: 0 auto;
-		height: 30px;
-	}
-	.header-text h2 {
-		font-size: 1.5em;
-		margin-top: -10px;
-	}
-	.modal-body {
-		display: block;
-	}
-	.modal-content {
-		width: 100%;
-	}
-	.modal-body img {
-		width: 100%;
-	}
-	main {
-		margin-bottom: 100px;
-		margin-top: -50px;
-		width: 100%;
-	}
-	.navbar-brand img {
-		padding-right: none;
-	}
-}
+    .jumbotron.jumbotron-fluid img{
+        background: white;
+        margin-top:30px;
+       }
+       .jumbotron.jumbotron-fluid.sm-width{
+        width: 100%;
+    }
+       .header-text{
+        margin: 0 auto;
+        height: 30px;
+       }
+       .header-text h2{
+        font-size: 1.5em;
+        margin-top: -10px;
+       }
+       .modal-body{
+        display: block;
+      }
+      .modal-content {
+        width: 100%;
+    }
+       /* .modal-body img{
+        width: 100%;
+      } */
+      main {
+        margin-bottom: 100px;
+        margin-top: -50px;
+        width: 100%
+      }
+      .navbar-brand img{
+        padding-right: none;
+      }
 
 #cohort48 {
   color: white;
